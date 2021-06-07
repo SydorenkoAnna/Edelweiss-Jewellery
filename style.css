@@ -211,7 +211,7 @@ p{
 .line-left::before{
     content: '';
     position: absolute;
-    border: .6rem solid transparent;
+    border: .4rem solid transparent;
     top: 50%;
     transform: translateY(-50%);
     opacity: 0;
